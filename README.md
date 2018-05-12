@@ -1,2 +1,0 @@
-# pystuff
-Generic python scripts
