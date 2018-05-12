@@ -33,6 +33,3 @@ emp1.apply_raise()
 print(emp1.pay)
 
 
-## Just for git test
-
-
