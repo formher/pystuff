@@ -1,0 +1,15 @@
+{
+  "MAIN": {
+    "BASEURL": "https://www.amazon.com/dp/"
+  },
+  "LISTOFASINS": {
+    "ASIN1": "B0795YVPTT",
+    "ASIN2": "B01MYRWIBV",
+    "ASIN3": "B015NHWRPK"
+  },
+  "MAILCONFIGS": {
+    "SMTP_SERVER": "Value",
+    "USERNAME": "Value",
+    "PASSWORD": "Value"
+  }
+}
