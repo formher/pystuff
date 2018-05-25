@@ -1,9 +1,5 @@
+from collections import Counter
+
 mylist = ['Tom', 'Barbara', 'Tom', 'Jerry', 'Jerry', 'Tom', 'Mher']
-
-def mostuseditem(thelist):
-    for index, item in enumerate(thelist):
-        print(item)
-
-
-
-mostuseditem(mylist)
+c = Counter(mylist)
+print(c.most_common(1))
