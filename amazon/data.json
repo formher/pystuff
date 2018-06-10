@@ -1,1 +1,34 @@
-{"Products": {"Eco-Sil 4-PACK Reusable Silicone Food Bag Preser": {"Price": "33.99", "Review count": "61", "Rating avarage": "4.8", "Rank Top": "6144", "Category Top": "Kitchen & Dining", "Link": "https://www.amazon.com/dp/B0795YVPTT", "ASIN": "B0795YVPTT", "Timestamp": "2018-05-12 12:36:17"}, "Reusable Silicone Food Preservation Bag Airtight": {"Price": "17.89", "Review count": "201", "Rating avarage": "4.0", "Rank Top": "1439", "Category Top": "Kitchen & Dining", "Link": "https://www.amazon.com/dp/B01MYRWIBV", "ASIN": "B01MYRWIBV", "Timestamp": "2018-05-12 12:36:19"}, "Funko Pocket POP Keychain: GOTG - Baby Groot Key": {"Price": "5.95", "Review count": "178", "Rating avarage": "4.6", "Rank Top": "825", "Category Top": "Toys & Games", "Link": "https://www.amazon.com/dp/B015NHWRPK", "ASIN": "B015NHWRPK", "Timestamp": "2018-05-12 12:36:21"}}}
+{
+  "Products": {
+    "Eco-Sil 4-PACK Reusable Silicone Food Bag Preser": {
+      "Price": "33.99",
+      "Review count": "61",
+      "Rating avarage": "4.8",
+      "Rank Top": "6144",
+      "Category Top": "Kitchen & Dining",
+      "Link": "https://www.amazon.com/dp/B0795YVPTT",
+      "ASIN": "B0795YVPTT",
+      "Timestamp": "2018-05-12 12:36:17"
+    },
+    "Reusable Silicone Food Preservation Bag Airtight": {
+      "Price": "17.89",
+      "Review count": "201",
+      "Rating avarage": "4.0",
+      "Rank Top": "1439",
+      "Category Top": "Kitchen & Dining",
+      "Link": "https://www.amazon.com/dp/B01MYRWIBV",
+      "ASIN": "B01MYRWIBV",
+      "Timestamp": "2018-05-12 12:36:19"
+    },
+    "Funko Pocket POP Keychain: GOTG - Baby Groot Key": {
+      "Price": "5.95",
+      "Review count": "178",
+      "Rating avarage": "4.6",
+      "Rank Top": "825",
+      "Category Top": "Toys & Games",
+      "Link": "https://www.amazon.com/dp/B015NHWRPK",
+      "ASIN": "B015NHWRPK",
+      "Timestamp": "2018-05-12 12:36:21"
+    }
+  }
+}
